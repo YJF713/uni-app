@@ -1,0 +1,20 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "hello"
+		}
+	}    ,{
+            "path" : "pages/class2/616",
+            "style" : {
+				"navigationBarTitleText": "class2"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}
